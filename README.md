@@ -17,8 +17,8 @@
 		"Package Control"
 	],
 	"channels": [
-        "/Users/SupperMen/Desktop/MyProjects/PHPTester/Configs/channel_v3.json"
-    ]
+                "/Users/SupperMen/Desktop/MyProjects/PHPTester/Configs/channel_v3.json"
+        ]
 }
 
 ```
